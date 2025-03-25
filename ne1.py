@@ -14,7 +14,6 @@
 # (pokud zadá neplatné zvíře, nebo bude chtít odbrat více zvířat než je aktuálně v zoo vypíše se mu: "Neco si zadal špatně")
 # funkce vypis - vypíše všechna zvířata, která jsou aktuálně v zoo
 
-
 # Tuto část dopiš
 
 #def pridej(zvire, pocet):
